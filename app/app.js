@@ -74,7 +74,7 @@ app.directive('dirDisplay', [function() {
 				scope.$apply();
 			});
 			
-			console.log('test');
+			// console.log('test');
 		}
 		// bindToController: true
 	}
